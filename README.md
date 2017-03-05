@@ -2,6 +2,6 @@
 Süleyman Demirel Üniversitesi bünyesinde 3 Mart 2017 Cuma günü SDUCTF.ORG üzerinde gerçekleşen CTF cevapları.
 Websitesi : http://sductf.org
 #Kategoriler
-* Network
-* Forensic
-* Misc
+* <a href="/Network">Network</a>
+* <a href="/Forensic">Forensic</a>
+* <a href="/Misc">Misc</a>

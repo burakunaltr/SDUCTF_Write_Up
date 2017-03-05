@@ -23,5 +23,9 @@ Artık dosyayı brute force için aircrack e bırakabiliriz.
 
 > aircrack-ng -w rockyou.txt -b 40:F3:08:80:A0:9B WarOfHackers-01.cap
 
-Bi 10-15 dakika sonra parolayı verecektir. Parolayı kullanarak ağa bağlanabildik ancak bu sırada birinci olan takım senaryonun ikinci kısmını bitirdiği için soru kapandı ve devam edemedik :)
+Bi 10-15 dakika sonra parolayı verecektir.
+
+* iloveyoubam
+
+Parolayı kullanarak ağa bağlanabildik ancak bu sırada birinci olan takım senaryonun ikinci kısmını bitirdiği için soru kapandı ve devam edemedik :)
 

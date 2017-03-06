@@ -8,3 +8,14 @@ Websitesi : http://sductf.org
 
 
 > Cr3w12
+
+
+
+<a href="https://twitter.com/SiberGt"><img src="https://pbs.twimg.com/profile_images/838026145362821120/tE__okRO.jpg" widht="200px" height="200px"/></a>
+
+<a href="https://twitter.com/SiberGt">Siber Güvenlik Topluluğu</a>
+
+<a href="https://twitter.com/SiberGb"><img src="https://pbs.twimg.com/profile_images/837983978451791872/T-Eh111-.jpg" widht="200px" height="200px"/></a>
+
+<a href="https://twitter.com/SiberGb">Siber Güvenlik Bulmacaları</a>
+
